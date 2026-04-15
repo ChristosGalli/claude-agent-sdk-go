@@ -38,3 +38,4 @@ Notes and usage details for claude-agent-sdk-go.
 - clarify the setup steps
 - add a note about the defaults
 - link the usage section
+- add a note about the defaults
